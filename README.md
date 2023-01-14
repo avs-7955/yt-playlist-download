@@ -28,7 +28,7 @@ Go to the project directory
 Run the script
 
 ```bash
-  python main.py <videolink>
+  python main.py <playlistlink>
 ```
 
 Example: Downloading the playlist "Most Interesting Ted Talks"
