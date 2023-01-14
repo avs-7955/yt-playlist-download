@@ -31,10 +31,10 @@ Run the script
   python main.py <videolink>
 ```
 
-Example:
+Example: Downloading the playlist "Most Interesting Ted Talks"
 
 ```bash
-  python main.py https://www.youtube.com/watch?v=TQXMl4GycD0
+  python main.py https://www.youtube.com/playlist?list=PLlT0ph_Ig5Rc8xVBw47aZfLsOGw-lxRWb
 ```
 
 The download starts.
