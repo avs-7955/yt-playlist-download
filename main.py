@@ -37,5 +37,5 @@ for url in playlist.video_urls:
                     on_complete_callback=complete)
     print("Title: ", video.title)
     print("Download has started.")
-    video = video.streams.get_by_itag(137)
+    video = video.streams.get_by_itag(22) #720p 
     video.download(f"{path}/{playlist.title[0:10]}")
