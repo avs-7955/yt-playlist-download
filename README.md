@@ -9,6 +9,7 @@ This script will take the link of the playlist as an argument in the command pro
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="python" width="80" height="80"/>
+<img src="https://camo.githubusercontent.com/c96ba33a0453c8a2b81f1082f5821a9366fa7fdbe94acfd18ac64314a0a4392d/68747470733a2f2f6173736574732e6e69636b666963616e6f2e636f6d2f67682d7079747562652e6d696e2e737667" alt="pytube" height="80"/>
 </div>
 
 ## Run Locally
