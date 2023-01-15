@@ -1,6 +1,6 @@
 # YouTube Playlist Videos download
 
-This script will take the link of the playlist as an argument in the command prompt and directly start downloading all the videos of the playlist at 1080p.
+This script will take the link of the playlist as an argument in the command prompt and directly start downloading all the videos of the playlist at 720p.
 
 <h1 align="center">
   <img src="https://ik.imagekit.io/pq7opoglh/GitHub_ReadMe/stack_GjMfbKvDP.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1655143763495" width="55" alt="stacklogo-python" />
